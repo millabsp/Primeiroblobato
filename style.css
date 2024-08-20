@@ -10,3 +10,22 @@ body{
     padding: 30px;
     text-align: center;
 }
+
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+
+.cabecalho{
+    background-color: #000000;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+   
+}
+.computador{
+    padding: 10px;
+    right: 50%;
+}
